@@ -54,4 +54,4 @@ function multiply(a, b){
 
 -----------
 
-<img src="https://avatars.githubusercontent.com/u/11501370?s=280&v=4" width="100">
+<img src="https://avatars.githubusercontent.com/u/11501370?s=280&v=4" width="50">
