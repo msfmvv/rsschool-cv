@@ -1,1 +1,1 @@
-# rsschool-cv
+https://msfmvv.github.io/rsschool-cv/cv
