@@ -1,4 +1,6 @@
-## Siarhei Mamonau  <img src="https://avatars.githubusercontent.com/u/143655503?v=4" width="100">
+<img src="https://avatars.githubusercontent.com/u/143655503?v=4" width="100">  
+
+## Siarhei Mamonau  
 
 Junior Frontend Developer
 
