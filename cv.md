@@ -1,8 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/143655503?v=4" width="100">  
 
-## Siarhei Mamonau  
+# Siarhei Mamonau  
 
-Junior Frontend Developer
+#### Junior Frontend Developer
 
 ----------
 
@@ -54,4 +54,4 @@ function multiply(a, b){
 
 -----------
 
-![logo](https://avatars.githubusercontent.com/u/11501370?s=280&v=4)
+<img src="https://avatars.githubusercontent.com/u/11501370?s=280&v=4" width="100">
